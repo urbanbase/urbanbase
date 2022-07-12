@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=timeAuto&height=160&animation=fadeIn&section=header&text=&fontSize=60)
 
-<h3>“Invent the Next World!”</h3>
+<h3>“Imagine is everything”</h3>
 
 어반베이스는 세상 모든 이들이 자신에게 맞는 '개인화된 공간'을 누릴 수 있기를 바랍니다. 
 
